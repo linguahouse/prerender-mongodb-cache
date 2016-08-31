@@ -8,21 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/lammertw/prerender-mongodb-cache.git"
+    "url": "git://github.com/linguahouse/prerender-mongodb-cache.git"
   },
   "keywords": [
     "prerender",
     "mongodb",
     "cache"
   ],
-  "author": "Lammert Westerhoff",
+  "author": "Linguahouse, Lammert Westerhoff",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lammertw/prerender-mongodb-cache/issues"
+    "url": "https://github.com/linguahouse/prerender-mongodb-cache/issues"
   },
-  "homepage": "https://github.com/lammertw/prerender-mongodb-cache",
+  "homepage": "https://github.com/linguahouse/prerender-mongodb-cache",
   "dependencies": {
-    "mongodb": "~2.1.0",
+    "mongodb": "~2.2.9",
     "cache-manager": "0.2.0"
   }
 }
